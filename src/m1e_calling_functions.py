@@ -62,7 +62,7 @@ def goodbye():
     """ Prints a farewell message on the console, in 3 languages. """
     print('Goodbye!')
     print('   Ciao!')
-    print('   Bai bai!')
+    print('Bai bai!')
 
 
 def hello_and_goodbye():
